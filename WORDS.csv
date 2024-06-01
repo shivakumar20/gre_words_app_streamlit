@@ -1,0 +1,91 @@
+﻿set,slno,words,meaning,sentence
+1,1,abound,be present in large quantities,Opportunities for advancement abound in the rapidly growing technology sector.
+1,2,amorphous,lacking structure; unclear,"The concept of happiness is often considered amorphous, as it can vary greatly from person to person and lacks a clear, universally accepted definition."
+1,3,austere,(of a person) strict and stern in character,The austere design of the monastery reflected the monks' commitment to simplicity and self-discipline.
+1,4,belie,give a false impression of; mask,Her cheerful demeanor belied the sadness she felt inside after hearing the news of her friend's illness.
+1,5,capricious,having varying moods; fickle,"The weather in the mountains can be quite capricious, with sunny skies suddenly giving way to thunderstorms within minutes."
+1,6,cerebral,related to the brain,"His writing style is highly cerebral, filled with intricate philosophical concepts and intellectual discussions that engage the reader's mind deeply."
+1,7,congenial,"(of a person) likable and friendly, often due to shared interests",The congenial atmosphere at the family reunion made it easy for everyone to relax and enjoy each other's company.
+1,8,conspicuous,easily noticed; obvious,"The towering skyscraper was conspicuous amidst the surrounding buildings, its gleaming facade catching the eye of every passerby."
+1,9,cursory,lacking effort; without care,"During the meeting, she only gave the report a cursory glance before moving on to the next agenda item, missing some critical details in the process."
+1,10,daunting,scary or frightening OR (of a task) seeming impossible,"Embarking on a journey to learn a new language may seem daunting at first, but with dedication and practice, progress becomes evident over time."
+1,11,deify,look up to someone or something as a god,"The fervent followers of the charismatic leader tended to deify him, attributing divine qualities to his every action and word."
+1,12,didactic,"meant for teaching; educational, sometimes in a condescending manner","The children's book was not only entertaining but also didactic, teaching valuable lessons about friendship and kindness through its colorful characters and engaging stories."
+1,13,disseminate,distribute or circulate broadly,"The organization aims to disseminate information about environmental conservation practices to communities worldwide, fostering awareness and action towards a sustainable future."
+1,14,feasible,likely to be achieved; practical,"Given the limited resources and time constraints, launching a new product within six months seemed more feasible than attempting a longer development cycle."
+1,15,flout,break a rule without guilt,"Despite the clear rules against cheating, some students continue to flout academic integrity policies by plagiarizing essays and copying answers during exams."
+1,16,homogeneous,composed of similar parts; alike,"The small rural town was known for its homogeneous population, consisting mostly of families who had lived there for generations and shared similar cultural backgrounds."
+1,17,humdrum,boring; unlikely to excite,"After years of working the same humdrum job, he decided to pursue his passion for photography and inject some excitement into his daily routine."
+1,18,insipid,without flavor; lacking energy,"The insipid soup lacked any discernible flavor, leaving the diners disappointed and craving something more satisfying."
+1,19,loquacious,likely to talk a lot; wordy,"Despite her shy demeanor in social settings, she becomes remarkably loquacious when discussing her favorite books, eagerly sharing her thoughts and insights with anyone who will listen."
+1,20,misanthropic,having a distaste for humans and society,"His misanthropic tendencies often led him to avoid social gatherings, preferring the company of his books and solitude over interactions with others."
+1,21,misnomer,a misleading or inaccurate name,Calling that massive storm a mere rain shower would be a misnomer; it unleashed destructive winds and torrential downpours across the region.
+1,22,negligent,lacking care or attention,"The company's negligent handling of sensitive customer data resulted in a major security breach, causing widespread concern among its user base."
+1,23,obsequious,excessively submissive to authority,"The waiter's obsequious behavior towards the wealthy patrons bordered on servility, as he eagerly anticipated their every whim and request."
+1,24,placate,decrease someone's anger or other negative emotion,"In an attempt to placate the angry mob, the mayor promised to address their grievances and implement changes to improve the situation."
+1,25,proclivity,a fondness or liking for something,"Growing up in a family of musicians, she developed a natural proclivity for playing various instruments from a young age."
+1,26,puerile,immature and childish,"His puerile jokes and immature behavior often irritated his colleagues during important meetings, undermining his professionalism."
+1,27,quixotic,excessively visionary; unfeasible,"Despite the odds stacked against him, he pursued his quixotic dream of starting a successful tech company from his garage, fueled by passion and determination."
+1,28,spendthrift,someone who spends money recklessly,"Her reputation as a spendthrift earned her disapproval from her frugal parents, who constantly reminded her of the importance of saving money for the future."
+1,29,taciturn,of few words; speaking little,"The taciturn old man rarely spoke, preferring to communicate through his actions rather than words."
+1,30,wary,exercising caution; careful,"After falling for numerous scams in the past, she became increasingly wary of unsolicited emails promising unrealistic returns, now scrutinizing every offer with caution before taking any action."
+2,31,adulterate,damage the quality of; corrupt,Chemical runoff regularly adulterates our water supply.
+2,32,advocate,support; be in favor of,The board advocated a more conservative marketing strategy.
+2,33,aggrandize,enhance one's power or standing,Roman leading men never passed on an opportunity to aggrandize themselves.
+2,34,alacrity,eagerness to do something,The children completed their chores with surprising alacrity.
+2,35,ambivalent,having conflicting emotions; unsure,It's normal to feel ambivalent when moving to a new place.
+2,36,ameliorate,improve a bad feeling or bad situation,Strong service and timely support can ameliorate customer anger.
+2,37,amenable,(of a person) receptive to change; open,The students were amenable to less homework.
+2,38,anachronistic,of the wrong time or era,Dreams of colonial conquest are anachronistic in today's modern world.
+2,39,audacious,bold; unafraid of risks,Elon Musk incessantly pursues his audacious plan for a city on Mars.
+2,40,avaricious,greedy; always wanting more,Free market economies not only tolerate but reward avaricious behavior.
+2,41,banal,unoriginal and dull; lacking creativity,"The reviewer grew weary of banal, by-the-book action movies."
+2,42,benign,harmless; having little effect,"Despite causing some initial discomfort, the process is benign."
+2,43,brazen,shameless and excessively forward,John's brazen interruptions of his boss' speech were not received well.
+2,44,calumny,slander and defamation,The tabloid had an axe to grind and thus spread calumny daily.
+2,45,candid,honest; without deception,"Honesty is important, but don't be too candid in job interviews."
+2,46,castigate,scold someone harshly,The entire country castigated the governor for his ill-timed statement.
+2,47,caustic,(of speech) hostile and bitter,Reality TV thrives on conflict and caustic discourse between characters.
+2,48,construe,understand something subjectively,It was difficult to construe the retreat as anything but a massive defeat.
+2,49,contrite,feeling regretful or guilty,"Genuinely contrite, the man accepted his sentence without protest."
+2,50,convoluted,difficult to understand or follow,Rome's roads are a convoluted mess.
+2,51,covet,strongly desire; yearn for,"To improve our mental health, let's try to not covet the possessions of others."
+2,52,craven,lacking bravery; weak-kneed,The army surrendered but not because the soldiers were craven.
+2,53,decorum,politeness and proper behavior,The mother encouraged her son to have decorum.
+2,54,deft,highly proficient; skilled,Jane's deft fingers navigate the 88 piano keys effortlessly.
+2,55,demur,hesitate or object; express doubt,Most employees demurred when asked to undergo daily Covid testing.
+2,56,derivative,based on someone else's work (often used in a negative sense),"The film is derivative, but proudly so."
+2,57,desiccate,dry out; remove all moisture,The land was thoroughly desiccated.
+2,58,diatribe,an angry rant; verbal abuse,Her diatribe on the ills of society was too hostile to persuade anyone.
+2,59,incredulous,doubtful and disbelieving,People are understandably incredulous at the prospect of intergalactic travel.
+2,60,ingenuous,naive and lacking experience,We long for the ingenuous days of our youth.
+3,61,abate,decrease in intensity; lessen,He relied on TV to abate his lonelinesss.
+3,62,abjure,strongly reject (an idea); forgo,"After experiencing the horrors of war, he decided to abjure violence and dedicate his life to promoting peace."
+3,63,anomalous,differing from what is normal; atypical,The scientist discovered an anomalous result in her experiment that challenged the existing theories in her field.
+3,64,antipathy,profound hostility or hatred,"Despite their shared history, there was an undeniable antipathy between the two rival factions."
+3,65,arcane,comprehended by very few people; secret,The professor's lecture on quantum mechanics was filled with arcane terminology that left most of the students bewildered.
+3,66,arduous,very challenging; needing great effort,"Climbing Mount Everest is known to be an arduous journey, requiring months of preparation and physical endurance."
+3,67,artless,naive; inexperienced,Her artless charm and genuine demeanor endeared her to everyone she met.
+3,68,ascetic,(of a lifestyle) very strict and lacking luxury,"The ascetic monk lived a life of simplicity, abstaining from worldly pleasures and material possessions."
+3,69,assuage,decrease a negative feeling,A warm cup of tea helped to assuage her anxiety after a long and stressful day at work.
+3,70,betray,unknowingly disclose or reveal,His decision to betray his closest friend for personal gain left him consumed by guilt and regret.
+3,71,bucolic,associated with tranquil rural life,The picturesque countryside offered a bucolic retreat from the hustle and bustle of city life.
+3,72,burgeon,quickly increase or grow; skyrocket,The small startup began to burgeon into a successful company after securing a major investment.
+3,73,cacophonous,extremely noisy; grating,The cacophonous sound of construction outside made it difficult to concentrate on her work.
+3,74,canonize,treat like a god; deeply venerate,"After her death, the community petitioned to canonize her as a saint for her selfless acts of charity."
+3,75,censure,strongly criticize or disapprove,The board of directors voted to censure the CEO for his unethical behavior.
+3,76,chicanery,using deception to attain a certain goal,The politician's chicanery was exposed when evidence of corruption surfaced during the investigation.
+3,77,coalesce,bring elements together; unite,"Over time, their disparate ideas began to coalesce into a cohesive plan for the project."
+3,78,cogent,persuasive and clear; compelling,The lawyer presented a cogent argument that persuaded the jury to reach a unanimous verdict.
+3,79,compelling,persuasive and clear,"The documentary presented a compelling case for environmental conservation, sparking widespread awareness and action."
+3,80,contend,argue a certain point of view; assert,"Despite facing numerous obstacles, she continued to contend for equal rights and opportunities for all."
+3,81,copious,existing in great supply; abundant,The author's copious notes provided valuable insights into the historical context of the novel.
+3,82,cosmopolitan,(of a city) highly diverse,Living in a cosmopolitan city exposed her to diverse cultures and perspectives from around the world.
+3,83,deference,high regard and respect; esteem,He showed deference to his elders by listening attentively to their wisdom and advice.
+3,84,desultory,unplanned; without enthusiasm,"The meeting quickly devolved into a desultory discussion, with no clear agenda or direction."
+3,85,diffident,reserved or shy; without confidence,"His diffident demeanor often led others to perceive him as lacking confidence, despite his competence in his field."
+3,86,dilatory,slow and unhurried; meant to stall,The dilatory tactics of the opposing counsel prolonged the trial unnecessarily.
+3,87,equivocate,speak evasively; avoid taking a stance,"The politician tried to equivocate when questioned about his involvement in the scandal, but his evasive answers only raised further suspicion."
+3,88,polarize,separate into two opposing groups,"The controversial issue served to polarize the community, dividing them into opposing camps with little room for compromise."
+3,89,prodigal,carelessly wasteful; extravagant,"Despite his parents' warnings, the prodigal son squandered his inheritance on frivolous pursuits, only to return home penniless and remorseful."
+3,90,verbose,excessively talkative; wordy,"The verbose lecturer rambled on for hours, overwhelming the audience with unnecessary details and tangential anecdotes."
