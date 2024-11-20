@@ -89,3 +89,123 @@
 3,88,polarize,separate into two opposing groups,"The controversial issue served to polarize the community, dividing them into opposing camps with little room for compromise."
 3,89,prodigal,carelessly wasteful; extravagant,"Despite his parents' warnings, the prodigal son squandered his inheritance on frivolous pursuits, only to return home penniless and remorseful."
 3,90,verbose,excessively talkative; wordy,"The verbose lecturer rambled on for hours, overwhelming the audience with unnecessary details and tangential anecdotes."
+4,91,abstain,avoid taking part in something,"Concerned about her health, she decided to abstain from eating sweets and junk food."
+4,92,approbation,appreciation toward someone,The actor eagerly awaited the critics' approbation after his performance received rave reviews.
+4,93,cherish,greatly love or protect something,"She cherished the handmade bracelet, as it was a gift from her grandmother who had passed away."
+4,94,corroborate,lend support to; bolster,"The witness's testimony helped to corroborate the suspect's alibi, strengthening his case in court."
+4,95,disparate,different or contrasting,"Despite their disparate backgrounds, they found common ground through their shared love of music."
+4,96,emulate,imitate someone or something,Aspiring writers often seek to emulate the style of their favorite authors in their own works.
+4,97,enervate,sap the energy out of someone; fatigue,"The intense heat enervated the hikers, draining their energy and leaving them exhausted."
+4,98,ephemeral,extremely shortlasting,"The beauty of the cherry blossoms is ephemeral, lasting only for a brief period each spring."
+4,99,fervid,excessively energetic or eager,"His fervid speech inspired the audience, igniting a passion for social justice within their hearts."
+4,100,garrulous,tending to talk too much; wordy,"The garrulous old man could talk for hours about his adventures, captivating everyone with his tales."
+4,101,incendiary,provocative; causing conflict,"The politician's incendiary remarks sparked outrage among the opposition, leading to heated debates."
+4,102,inimical,damaging; hostile in manner or tone,The harsh weather conditions were inimical to the growth of delicate flowers in the garden.
+4,103,intimate,subtly suggest or imply,"They shared an intimate moment under the starry sky, feeling a deep connection with each other."
+4,104,invigorate,provide energy or vitality to,"A brisk walk in the crisp morning air never failed to invigorate her, energizing her for the day ahead."
+4,105,mitigate,diminish negative feelings or situation,Planting trees can help to mitigate the effects of climate change by absorbing carbon dioxide from the atmosphere.
+4,106,obsolete,no longer useful; outmoded,Floppy disks have become obsolete with the advent of more advanced storage technologies.
+4,107,opaque,unclear; hard to comprehend,"The meaning of the poem was opaque, leaving the readers puzzled and searching for interpretation."
+4,108,paradigmatic,representing the standard example,Einstein's theory of relativity is often cited as a paradigmatic example of groundbreaking scientific thinking.
+4,109,pedantic,overly concerned with (minor) details,The pedantic professor insisted on correcting every minor grammatical error in his students' essays.
+4,110,placid,calm; free from activity or irritation,"The placid lake reflected the surrounding mountains, creating a serene and picturesque scene."
+4,111,polemical,"giving a strong, controversial opinion",The author's polemical writing style often sparked controversy and heated debates among readers.
+4,112,precipitate,cause to happen,His impulsive decision to quit his job without another lined up proved to be a precipitate mistake.
+4,113,profundity,great wisdom or intelligence,The professor's lecture on existentialism delved into the profundity of human existence and purpose.
+4,114,prophetic,able to correctly predict the future,"Her prophetic warning about the impending storm proved to be accurate, saving many lives in its path."
+4,115,prudent,wise in decision-making,It is prudent to save a portion of your income for emergencies and unexpected expenses.
+4,116,punctilious,highly concerned with details or manners,"The chef was known for his punctilious attention to detail, ensuring that every dish was perfect."
+4,117,recondite,obscure and difficult to understand,The recondite language of legal documents often confuses those without a legal background.
+4,118,scrupulous,careful with details,The journalist was scrupulous in fact-checking her sources to ensure the accuracy of her reporting.
+4,119,tranquil,peaceful; free from activity,The tranquil sound of waves lapping against the shore lulled her into a state of peaceful relaxation.
+4,120,vacillate,go back and forth with one's view,"Unable to make a decision, he continued to vacillate between the two options, unsure of which to choose."
+5,121,Aloof,not warm or friendly; impersonal,"Despite his colleagues' attempts to engage him, he remained aloof, preferring to work in solitude and keep his distance."
+5,122,Clangor,a disturbingly loud noise,The constant clangor of construction outside her window made it difficult to focus on her studies.
+5,123,Conventional,adhering to established practices or accepted standards,Her conventional approach to solving problems often clashed with her colleague's innovative methods.
+5,124,Debunk,prove a belief or idea false,The scientist aimed to debunk the myths surrounding the new technology by presenting solid evidence against them.
+5,125,Diminutive,exceptionally small in size or stature,"The diminutive statue, though small in size, held great historical significance for the community."
+5,126,Discernible,able to be recognized or understood,"Despite the thick fog, the outline of the mountains was still discernible in the distance."
+5,127,Enigmatic,hard to understand; mysterious,The artist's enigmatic smile in the portrait has intrigued art enthusiasts for centuries.
+5,128,Estranged,emotionally distanced from someone,"After years of estrangement, the estranged siblings finally reconciled during the family reunion."
+5,129,Extravagant,"excessive, especially in terms of cost","His extravagant spending habits quickly depleted his savings, leaving him in financial trouble."
+5,130,Fanciful,highly imaginative; unrealistic,"The novel's fanciful plot, filled with magical creatures and otherworldly adventures, captivated readers of all ages."
+5,131,Frivolous,lacking in seriousness or importance; silly,"The committee dismissed her concerns as frivolous, focusing instead on more pressing matters."
+5,132,Heterogeneous,"composed of varying, diverse elements",The city's heterogeneous population contributed to its rich cultural diversity and vibrant atmosphere.
+5,133,Imperious,having an arrogant or domineering manner,"The manager's imperious demeanor often intimidated her subordinates, making it difficult for them to express their opinions."
+5,134,Impertinent,disrespectful or inappropriate,His impertinent remarks during the meeting earned him a stern reprimand from the supervisor.
+5,135,Invasive,infringing on other's privacy,"The invasive species quickly spread throughout the ecosystem, outcompeting native plants and animals."
+5,136,Irresolute,uncertain or lacking determination,"His irresolute nature made him a poor leader, as he struggled to make decisive decisions."
+5,137,Laudable,worthy of admiration or praise,The team's laudable efforts to clean up the beach were appreciated by the entire community.
+5,138,Lax,not diligent or careful; casual,The lax security measures at the event led to several unauthorized entries.
+5,139,Marginalize,treat someone or something as insignificant,"The policies disproportionately marginalized certain groups, limiting their access to essential services."
+5,140,Panache,a stylish and confident manner,She delivered her speech with such panache that the audience was captivated from start to finish.
+5,141,Plodding,moving slowly or laboriously,The plodding pace of the movie made it difficult to stay engaged throughout the entire runtime.
+5,142,Prosaic,straightforward; unoriginal; unimaginative,The author's prosaic writing style lacked the vivid descriptions and imaginative elements found in her earlier works.
+5,143,Remedial,serving to correct or cure something,He enrolled in a remedial math course to improve his skills and prepare for the upcoming exam.
+5,144,Restive,demonstrating difficulty in staying still,The restive crowd grew increasingly impatient as the concert was delayed further.
+5,145,Sporadic,happening occasionally and irregularly,The sporadic power outages in the area caused frequent disruptions to daily life.
+5,146,Stigmatize,label or mark as disgraceful,"Society often stigmatizes mental illness, making it harder for individuals to seek help."
+5,147,Undermine,"weaken or sabotage, often subtly",The constant criticism from his peers began to undermine his confidence in his abilities.
+5,148,Utterly,completely and without exception,"She was utterly exhausted after completing the marathon, having pushed herself to the limit."
+5,149,Weary,feeling tired or exhausted,"After hours of driving, he felt weary and decided to rest before continuing his journey."
+5,150,Zealous,intensely passionate,"The zealous activist tirelessly campaigned for environmental conservation, inspiring others to join the cause."
+6,151,admonish,warn or reprimand someone firmly.,"The teacher admonished the students for talking during the lecture, reminding them to focus on the lesson."
+6,152,aesthetic,concerned with beauty or the appreciation of beauty.,The designer’s aesthetic choices in the minimalist home interior were praised for their elegance and simplicity.
+6,153,affectation,"behavior, speech, or writing that is pretentious and designed to impress.","His British accent seemed like an affectation, as he had never even been to the UK."
+6,154,alleviate,"make (suffering, deficiency, or a problem) less severe.",The doctor prescribed medication to alleviate the patient’s chronic pain.
+6,155,analogous,"comparable in certain respects, typically in a way which makes clearer the nature of the things compared.","The heart’s function in the body is analogous to a pump, circulating blood through the system."
+6,156,bolster,support or strengthen.,The recent data bolstered her argument that the company needed to invest more in marketing.
+6,157,chauvinistic,feeling or displaying aggressive or exaggerated patriotism.,His chauvinistic remarks about women in the workplace quickly earned him a reputation as being sexist.
+6,158,connoisseur,an expert judge in matters of taste.,"As a wine connoisseur, she could easily distinguish between a vintage Bordeaux and an ordinary table wine."
+6,159,dissemble,conceal or disguise one's true feelings or beliefs.,"Rather than admit he had made a mistake, he chose to dissemble, pretending everything was under control."
+6,160,dogged,having or showing tenacity and grim persistence.,"Her dogged determination to complete the marathon, despite the harsh weather, was truly inspiring."
+6,161,dupe,deceive; trick.,The scam artist duped the elderly man into giving away his life savings by posing as a bank representative.
+6,162,empirical,"based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",The researcher relied on empirical evidence gathered from controlled experiments to support her hypothesis.
+6,163,engender,"cause or give rise to (a feeling, situation, or condition).",The politician's divisive rhetoric only served to engender more hostility among the already polarized electorate.
+6,164,entitled,believing oneself to be inherently deserving of privileges or special treatment.,He felt entitled to the promotion simply because he had been with the company longer than anyone else.
+6,165,pertinacious,holding firmly to an opinion or a course of action.,"Despite numerous setbacks, her pertinacious pursuit of the truth eventually led to a breakthrough in the case."
+6,166,presumptuous,(of a person or their behaviour) failing to observe the limits of what is permitted or appropriate/overconfident,It was presumptuous of him to assume he would be invited to the private event without an invitation.
+6,167,probity,the quality of having strong moral principles; honesty and decency.,"The judge’s probity was never in question, as he consistently ruled with fairness and integrity."
+6,168,proliferate,increase rapidly in number; multiply.,"As technology advances, new innovations proliferate at a pace that is hard to keep up with."
+6,169,specious,"superficially plausible, but actually wrong.","The specious argument seemed convincing at first, but on closer inspection, it was full of logical flaws."
+6,170,spurious,not being what it purports to be; false or fake.,The claim that the product could cure all diseases was quickly dismissed as spurious by medical experts.
+6,171,subjective,"based on or influenced by personal feelings, tastes, or opinions.","Art criticism can be highly subjective, as each viewer may have a different emotional response to a piece."
+6,172,subvert,undermine the power and authority of (an established system or institution).,The rebel group sought to subvert the existing government by inciting mass protests across the country.
+6,173,timorous,showing or suffering from nervousness or a lack of confidence.,"The timorous child hesitated before stepping onto the stage, frightened by the large audience."
+6,174,tortuous,1. full of twists and turns. 2. excessively lengthy and complex.,"The tortuous mountain road was full of sharp curves, making the drive slow and dangerous."
+6,175,tractable,easy to control or influence.,"The young puppy was surprisingly tractable, quickly learning new commands and obeying its trainer."
+6,176,transient,lasting only for a short time; impermanent.,"The transient nature of summer storms means they pass quickly, but often leave significant damage in their wake."
+6,177,ubiquitous,"present, appearing, or found everywhere.",Smartphones have become so ubiquitous in modern society that it’s rare to see anyone without one.
+6,178,underscore,emphasize.,The CEO’s speech underscored the importance of adapting to new technologies in order to stay competitive.
+6,179,venal,showing or motivated by susceptibility to bribery; corrupt.,The venal politician accepted bribes from corporations in exchange for favorable legislation.
+6,180,venerate,regard with great respect; revere.,"The people venerate the saint, making pilgrimages to his shrine every year to pay their respects."
+6,181,appease,1. pacify or placate (someone) by acceding to their demands. 2. assuage or satisfy (a demand or a feeling).,"The government tried to appease the protesters by offering small concessions, but it was not enough to calm their anger."
+6,182,arbitrary,"1. based on random choice or personal whim, rather than any reason or system. 2. (of power or a ruling body) unrestrained and autocratic in the use of authority.",The manager's arbitrary decision to change the project deadline left the team scrambling to finish their work on time.
+6,183,archaic,very old or old-fashioned.,The archaic language in the old legal documents made them difficult to understand for modern readers.
+6,184,clamorous,1. making a loud and confused noise. 2. expressing or characterized by vehement protests or demands.,"The clamorous crowd outside the stadium could be heard from several blocks away, cheering loudly for their team."
+6,185,dearth,a scarcity or lack of something.,The dearth of affordable housing in the city has made it increasingly difficult for low-income families to find a place to live.
+6,186,explicable,able to be accounted for or understood.,The sudden drop in sales was explicable once the company realized that a key competitor had launched a new product.
+6,187,hyperbole,exaggerated statements or claims not meant to be taken literally.,"His claim that he could finish the entire project in one day was clearly a hyperbole, as it required weeks of work."
+6,188,immutable,unchanging over time or unable to be changed.,"The scientist believed that the laws of physics were immutable, remaining constant throughout time and space."
+6,189,indefatigable,(of a person or their efforts) persisting tirelessly.,"Her indefatigable spirit kept her going through the long hours of research, even when others had given up."
+6,190,indolent,1. wanting to avoid activity or exertion; lazy. 2. (of a disease or condition) causing little or no pain.,His indolent attitude toward work resulted in missed deadlines and poor performance reviews.
+6,191,insular,"ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.","Living in such an insular community, he had little exposure to different cultures or viewpoints."
+6,192,intransigent,unwilling or refusing to change one's views or to agree about something.,The union's intransigent stance on the issue made it impossible to reach a compromise with the company.
+6,193,intrepid,fearless; adventurous (often used for rhetorical or humorous effect).,"The intrepid explorer ventured into the uncharted jungle, undeterred by the dangers that lay ahead."
+6,194,irreverent,showing a lack of respect for people or things that are generally taken seriously.,"His irreverent humor during the formal ceremony caught many by surprise, but it lightened the mood."
+6,195,loathe,feel intense dislike or disgust for.,"She loathed the idea of working with someone she didn’t trust, but she had no choice in the matter."
+6,196,malign,1. evil in nature or effect. 2. speak about (someone) in a spitefully critical manner.,The politician's opponents sought to malign his reputation by spreading false rumors about his personal life.
+6,197,malleable,easily influenced; pliable.,"Gold is highly malleable, allowing it to be shaped into intricate designs without breaking."
+6,198,neophyte,1. a person who is new to a subject or activity. 2. a new convert to a religion.,"As a neophyte in the field of programming, she often sought guidance from more experienced colleagues."
+6,199,plastic,1. not genuine; artificial or unnatural. 2. (of a substance or material) easily shaped or moulded.,Clay is a plastic material that can be molded into a variety of shapes before it hardens.
+6,200,platitude,"a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.","The speech was filled with platitudes about teamwork and effort, but lacked any real substance or new ideas."
+6,201,prescient,having or showing knowledge of events before they take place.,"Her prescient remarks about the economy proved accurate, as the predicted downturn occurred just months later."
+6,202,pristine,in its original condition; unspoilt.,The hikers were awed by the pristine beauty of the untouched wilderness around them.
+6,203,reproach,express to (someone) one's disapproval of or disappointment in their actions.,His mother gave him a look of reproach after he failed to complete his chores.
+6,204,robust,1. strong and healthy; vigorous.2. (of wine or food) strong and rich in flavour or smell.,The new software was robust enough to handle millions of users simultaneously without crashing.
+6,205,salubrious,1. health-giving; healthy.2. (of a place) pleasant; not run-down.,The salubrious mountain air was just what she needed to recover from her illness.
+6,206,sanction,1. a threatened penalty for disobeying a law or rule. 2. official permission or approval for an action.,The international community imposed economic sanctions on the country in response to its human rights violations.
+6,207,sedulous,(of a person or action) showing dedication and diligence.,Her sedulous attention to detail ensured that the project was completed flawlessly and on time.
+6,208,soporific,tending to induce drowsiness or sleep.,The lecture was so soporific that several students were struggling to stay awake by the end.
+6,209,stern,"stern(of a person or their manner) serious and unrelenting, especially in the assertion of authority and exercise of discipline.",The teacher’s stern warning to the class made it clear that no further disruptions would be tolerated.
+6,210,tendentious,"expressing or intending to promote a particular cause or point of view, especially a controversial one.","The tendentious article was clearly written to support the author's political views, without any attempt at objectivity."
