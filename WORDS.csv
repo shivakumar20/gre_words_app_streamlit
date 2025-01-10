@@ -299,33 +299,63 @@
 9,298,Supersede,Take the place of (a person or thing previously in authority or use); supplant.,The latest smartphone model will supersede the previous version with its advanced features and improved design.
 9,299,Tout," attempt to sell (something), typically by a direct or persistent approach.",The company’s new advertising campaign touts its product as the most innovative solution on the market.
 9,300,Wane,"progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.",His enthusiasm for the project began to wane as the challenges mounted and progress slowed.
-9,301,Abhor,regard with disgust and hatred.,She abhors dishonesty in all forms and refuses to tolerate even small lies.
-9,302,Boisterous,"noisy, energetic, and cheerful. Or  (of weather or water) wild or stormy.","The boisterous crowd at the football match cheered loudly, their energy electrifying the stadium."
-9,303,Chivalrous,"(of a man or his behaviour) courteous and gallant, especially towards women. or  relating to the historical concept of chivalry.",His chivalrous gesture of giving up his seat to the elderly woman drew admiration from the bystanders.
-9,304,Churlish,rude in a mean-spirited and surly way.,His churlish behavior at the dinner party embarrassed his family and irritated the guests.
-9,305,Clandestine,"kept secret or done secretively, especially because illicit.",The spies held a clandestine meeting under the cover of darkness to exchange classified information.
-9,306,Complacent,showing smug or uncritical satisfaction with oneself or one's achievements.,"After securing the initial funding, the team became complacent and failed to innovate further."
-9,307,Cumbersome,large or heavy and therefore difficult to carry or use; unwieldy. or slow or complicated and therefore inefficient.,The old computer system was so cumbersome that it slowed down the entire workflow.
-9,308,Debilitating,make (someone) very weak and infirm.,The athlete’s career was cut short by a debilitating injury that left him unable to compete.
-9,309,Deliberate,done consciously and intentionally.,Her deliberate choice of words during the negotiation ensured that no misunderstandings arose.
-9,310,Droll,curious or unusual in a way that provokes dry amusement.,His droll sense of humor had everyone laughing at even the most mundane situations.
-9,311,Eccentric,(of a person or their behavior) unconventional and slightly strange.,"The artist’s eccentric style, featuring bold colors and abstract shapes, set her work apart from others."
-9,312,Fractious,(typically of children) irritable and quarrelsome. Or (of a group or organization) difficult to control; unruly.,The fractious debate among the committee members delayed the decision-making process for hours.
-9,313,Limpid,completely clear and transparent. Or(especially of writing or music) clear and accessible or melodious.,The limpid waters of the mountain lake reflected the surrounding peaks with crystal clarity.
-9,314,Mawkish,sentimental in an exaggerated or false way.,"The movie’s mawkish ending, filled with overly sentimental dialogue, left the audience cringing."
-9,315,Obeisance,"a gesture expressing deferential respect, such as a bow or curtsy.",The villagers bowed in deep obeisance to their king as he entered the temple.
-9,316,Ostentatious,characterized by pretentious or showy display; designed to impress.,"His ostentatious display of wealth, from flashy cars to designer clothing, made him the talk of the town."
-9,317,Panacea,a solution or remedy for all difficulties or diseases.,"Many believe that technological advancements are a panacea for the world’s problems, though this view is often oversimplified."
-9,318,Perfunctory,"(of an action) carried out without real interest, feeling, or effort.",The manager’s perfunctory inspection of the facility failed to uncover the glaring safety hazards.
-9,319,Perilous,full of danger or risk.,"The climbers undertook a perilous journey across the icy cliffs, risking their lives to reach the summit."
-9,320,Pervasive,(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.,"The pervasive smell of freshly baked bread filled the entire house, making everyone hungry."
-9,321,Preclude,prevent from happening; make impossible.,His poor academic record precludes him from being considered for the scholarship.
-9,322,Predilection,a preference or special liking for something; a bias in favour of something.,Her predilection for classical music over modern genres was evident in her extensive vinyl collection.
-9,323,Rapacious,aggressively greedy or grasping.,"The rapacious landlords charged exorbitant rents, exploiting the tenants’ lack of options."
-9,324,Relish,enjoy greatly. Or anticipate with pleasure.,He relished the opportunity to showcase his skills in front of an esteemed audience.
-9,325,Satirical,"sarcastic, critical, and mocking another's weaknesses.","The satirical cartoon poked fun at political leaders, highlighting their hypocrisies in a humorous way."
-9,326,Sham,falsely present something as the truth.,The product’s claim to provide instant results was nothing more than a sham to deceive customers.
-9,327,Skirt,attempt to ignore; avoid dealing with. Or go round or past the edge of.,He tried to skirt the issue of his tardiness by diverting the conversation to another topic.
-9,328,Sluggish,slow-moving or inactive. Or lacking energy or alertness.,The sluggish economy made it difficult for new businesses to thrive.
-9,329,Spartan,showing or characterized by austerity or a lack of comfort or luxury.,"His spartan living conditions, with only a cot and a table, reflected his minimalist lifestyle."
-9,330,Truculent,eager or quick to argue or fight; aggressively defiant.,The truculent customer refused to listen to reason and continued to berate the store staff.
+10,301,Abhor,regard with disgust and hatred.,She abhors dishonesty in all forms and refuses to tolerate even small lies.
+10,302,Boisterous,"noisy, energetic, and cheerful. Or  (of weather or water) wild or stormy.","The boisterous crowd at the football match cheered loudly, their energy electrifying the stadium."
+10,303,Chivalrous,"(of a man or his behaviour) courteous and gallant, especially towards women. or  relating to the historical concept of chivalry.",His chivalrous gesture of giving up his seat to the elderly woman drew admiration from the bystanders.
+10,304,Churlish,rude in a mean-spirited and surly way.,His churlish behavior at the dinner party embarrassed his family and irritated the guests.
+10,305,Clandestine,"kept secret or done secretively, especially because illicit.",The spies held a clandestine meeting under the cover of darkness to exchange classified information.
+10,306,Complacent,showing smug or uncritical satisfaction with oneself or one's achievements.,"After securing the initial funding, the team became complacent and failed to innovate further."
+10,307,Cumbersome,large or heavy and therefore difficult to carry or use; unwieldy. or slow or complicated and therefore inefficient.,The old computer system was so cumbersome that it slowed down the entire workflow.
+10,308,Debilitating,make (someone) very weak and infirm.,The athlete’s career was cut short by a debilitating injury that left him unable to compete.
+10,309,Deliberate,done consciously and intentionally.,Her deliberate choice of words during the negotiation ensured that no misunderstandings arose.
+10,310,Droll,curious or unusual in a way that provokes dry amusement.,His droll sense of humor had everyone laughing at even the most mundane situations.
+10,311,Eccentric,(of a person or their behavior) unconventional and slightly strange.,"The artist’s eccentric style, featuring bold colors and abstract shapes, set her work apart from others."
+10,312,Fractious,(typically of children) irritable and quarrelsome. Or (of a group or organization) difficult to control; unruly.,The fractious debate among the committee members delayed the decision-making process for hours.
+10,313,Limpid,completely clear and transparent. Or(especially of writing or music) clear and accessible or melodious.,The limpid waters of the mountain lake reflected the surrounding peaks with crystal clarity.
+10,314,Mawkish,sentimental in an exaggerated or false way.,"The movie’s mawkish ending, filled with overly sentimental dialogue, left the audience cringing."
+10,315,Obeisance,"a gesture expressing deferential respect, such as a bow or curtsy.",The villagers bowed in deep obeisance to their king as he entered the temple.
+10,316,Ostentatious,characterized by pretentious or showy display; designed to impress.,"His ostentatious display of wealth, from flashy cars to designer clothing, made him the talk of the town."
+10,317,Panacea,a solution or remedy for all difficulties or diseases.,"Many believe that technological advancements are a panacea for the world’s problems, though this view is often oversimplified."
+10,318,Perfunctory,"(of an action) carried out without real interest, feeling, or effort.",The manager’s perfunctory inspection of the facility failed to uncover the glaring safety hazards.
+10,319,Perilous,full of danger or risk.,"The climbers undertook a perilous journey across the icy cliffs, risking their lives to reach the summit."
+10,320,Pervasive,(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.,"The pervasive smell of freshly baked bread filled the entire house, making everyone hungry."
+10,321,Preclude,prevent from happening; make impossible.,His poor academic record precludes him from being considered for the scholarship.
+10,322,Predilection,a preference or special liking for something; a bias in favour of something.,Her predilection for classical music over modern genres was evident in her extensive vinyl collection.
+10,323,Rapacious,aggressively greedy or grasping.,"The rapacious landlords charged exorbitant rents, exploiting the tenants’ lack of options."
+10,324,Relish,enjoy greatly. Or anticipate with pleasure.,He relished the opportunity to showcase his skills in front of an esteemed audience.
+10,325,Satirical,"sarcastic, critical, and mocking another's weaknesses.","The satirical cartoon poked fun at political leaders, highlighting their hypocrisies in a humorous way."
+10,326,Sham,falsely present something as the truth.,The product’s claim to provide instant results was nothing more than a sham to deceive customers.
+10,327,Skirt,attempt to ignore; avoid dealing with. Or go round or past the edge of.,He tried to skirt the issue of his tardiness by diverting the conversation to another topic.
+10,328,Sluggish,slow-moving or inactive. Or lacking energy or alertness.,The sluggish economy made it difficult for new businesses to thrive.
+10,329,Spartan,showing or characterized by austerity or a lack of comfort or luxury.,"His spartan living conditions, with only a cot and a table, reflected his minimalist lifestyle."
+10,330,Truculent,eager or quick to argue or fight; aggressively defiant.,The truculent customer refused to listen to reason and continued to berate the store staff.
+11,331,Acrimonious,"argumentative, threatening, or aggressive","The debate between the two candidates became acrimonious, with personal attacks overshadowing the issues."
+11,332,Belligerent,"argumentative, threatening, or aggressive",His belligerent tone during the negotiation only made it harder to reach a peaceful resolution.
+11,333,Beneficent,"kind and charitable, producing good results or benefits",The beneficent philanthropist donated millions to help underprivileged children access education.
+11,334,Canny,shrewd and cautious,Her canny investments in the stock market earned her significant returns despite the economic downturn.
+11,335,Cavalier,exhibiting an overly casual attitude; unconcerned,"His cavalier attitude toward deadlines frustrated his team, who were working hard to meet the schedule."
+11,336,Distressed,"experiencing nervousness, irritation, or sadness",She became distressed after learning about the unexpected delay in her project’s approval.
+11,337,Dwindling,decreasing steadily in size or quantity,The company’s dwindling profits forced them to reconsider their business strategy.
+11,338,Eclipse,overshadow or surpass,His groundbreaking research managed to eclipse all previous studies on the subject.
+11,339,Encyclopedic,thorough; comprehensive in scope,Her encyclopedic knowledge of history made her an invaluable resource for the research team.
+11,340,Exacerbate,make a situation or condition worse,The manager’s refusal to address the complaints only served to exacerbate the tensions among employees.
+11,341,Exasperated,severely irritated or angry,She was exasperated by his repeated excuses for missing important meetings.
+11,342,Fungible,interchangeable for another item of a similar type,"In the commodities market, gold and silver are considered fungible assets, easily traded for one another."
+11,343,Hackneyed,lacking creativity; derivative and overused,"The movie’s hackneyed plot failed to engage the audience, as it felt predictable and overused."
+11,344,Incongruous,out of place; lacking harmony,The modern design of the building looked incongruous in the historic neighborhood.
+11,345,Interchangeable,capable of being used in place of each other,"The two terms are not interchangeable, as each has a distinct meaning in legal contexts."
+11,346,Laconic,economical with words; quiet and reserved,"His laconic reply, consisting of just a single word, left everyone in the room confused."
+11,347,Lucrative,producing a significant amount of money,"The startup turned out to be a lucrative venture, generating substantial profits within its first year."
+11,348,Magisterial,possessing great authority,The professor’s magisterial presence in the lecture hall commanded the attention of all the students.
+11,349,Onerous,involving a heavy burden; challenging or difficult,The contract imposed onerous conditions that made it nearly impossible for the company to comply.
+11,350,Opprobrium,severe criticism or public shame,The politician faced widespread opprobrium after his unethical actions were exposed to the public.
+11,351,Parsimonious,extremely frugal or stingy,The parsimonious landlord refused to spend money on essential repairs for the apartment.
+11,352,Peripheral,of marginal importance; minor,The discussion focused on peripheral issues rather than addressing the core problem at hand.
+11,353,Provocative,"causing outrage or irritation, often intentionally",His provocative remarks during the panel discussion sparked a heated debate among the participants.
+11,354,Renounce,reject or give up,She decided to renounce her title as a sign of solidarity with the common people.
+11,355,Tempestuous,(of emotions or actions) unrestrained and turbulent,Their tempestuous relationship was marked by frequent arguments and passionate reconciliations.
+11,356,Tenable,(of an idea or method) justifiable and rational,"The scientist presented a tenable argument, backed by extensive data, to support her hypothesis."
+11,357,Transgression,"a violation of a law, rule, or social norm",The student’s transgression of cheating on the exam resulted in severe disciplinary action.
+11,358,Urbane,"refined, sophisticated, and courteous",His urbane manners and polished speech made him a favorite at social gatherings.
+11,359,Verisimilitude,appearance or semblance of truth or reality; believability.,The novel’s vivid descriptions lent a sense of verisimilitude to the fictional world it portrayed.
+11,360,Vitiate,impair or corrupt the quality of something,The presence of bias in the study’s methodology could vitiate the reliability of its conclusions.
